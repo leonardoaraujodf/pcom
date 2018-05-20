@@ -1,9 +1,9 @@
-# Princípios de Comunicação
+# PrincÃ­pios de ComunicaÃ§Ã£o
 
-Repositório da Disciplina de Princípios de Comunicação - UnB
+RepositÃ³rio da Disciplina de PrincÃ­pios de ComunicaÃ§Ã£o - UnB
 Semestre 2/2017
 
-# Links:
+# Links Ãšteis:
 
 - [Trabalho - Parte 1](\trabalho_parte_1)
 
