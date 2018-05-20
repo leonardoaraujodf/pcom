@@ -5,7 +5,7 @@ Semestre 2/2017
 
 # Links Úteis:
 
-- [Trabalho - Parte 1](\trabalho_parte_1)
+- [Trabalho - Parte 1](/trabalho_parte_1)
 
 - [Prova 2 - 2/2014](/p2_2_2014)
 - [Prova 2 - 1/2015](/p2_1_2015)
